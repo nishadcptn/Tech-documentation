@@ -14,6 +14,7 @@ This Documentation is split into 4 sections:
 
 1. [Database](database.md)
 2. [Back-end](back-end.md)
-3. Forge (Front-end)
-4. Dev-Ops
+3. [Front-end](front-end.md)
+4. Forge
+5. Dev-Ops
 
