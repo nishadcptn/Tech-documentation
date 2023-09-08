@@ -38,7 +38,7 @@ It uses three React apps
 
 All these three are located under <mark style="color:red;">./static</mark>
 
-![](.gitbook/assets/image.png)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 For handling the store we are using the package called as Mobx.
 
@@ -73,8 +73,8 @@ For the Front-end we don't need a hosting setup, Because all these things are ha
 
 **Useful Commands for deployment**
 
-1. <mark style="color:red;">forge deploy :</mark>  for development deployment&#x20;
-2. <mark style="color:red;">forge deploy -e production</mark> : for production deployment
+1. <mark style="color:red;">`forge deploy`</mark> <mark style="color:red;"></mark><mark style="color:red;">:</mark>  for development deployment&#x20;
+2. <mark style="color:red;">`forge deploy -e production`</mark> : for production deployment
 
 &#x20;
 
