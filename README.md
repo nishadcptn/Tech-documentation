@@ -1,7 +1,7 @@
 ---
 description: >-
   This is an overview of the technologies/practices that we have used in
-  Culturematters formerly known as Renegade CRM.
+  Culturematters.
 ---
 
 # Technical Documentation - Culturematters by Hamon Technologies
