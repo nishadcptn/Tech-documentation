@@ -26,5 +26,6 @@ The case of Development that consists of modification of the models, The develop
 1. The developer who is assigned the tickets may create multiple migration files by using the command `flask db migrate`
 2. These migration files **should not be committed into git**, only the model changes should be committed.
 3. The developer will rebase the target branch and Once the PR is approved,then they would create one single migration file in the branch, commit and should be merged with high priority.
-4.
+
+
 
