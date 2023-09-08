@@ -20,13 +20,21 @@ Forge is a cloud development platform created by Atlassian. It allows developers
 
 
 
-
-
 It uses three React apps
 
-1. cm-activity-panel
-2. cm-facade-jira
-3. cm-issue-panel
+* cm-facade-jira
+
+&#x20;       This is the main app of Culture-matters where Experiences are created and kicked off
+
+* cm-issue-panel
+
+&#x20;       This app handles the checklist items of a stage which can be accessed inside of a jira issue&#x20;
+
+* cm-activity-panel
+
+&#x20;       This app is used to track the status changes of  checklist items
+
+&#x20;&#x20;
 
 All these three are located under <mark style="color:red;">./static</mark>
 
