@@ -7,7 +7,7 @@
 1. The Back-end is written in `python` and is written on the `Flask` framework. The `python` version used is at 3.8
 2. The `./controllers` folder in each app directory contains all the API routes and loginc.
 3. The `./app.py` file contains the base layer where the `Flask` application is initialized.
-4. he `./server.py` file contain the code for creating the server and listening to the PORT which is taken from the environment variable, by default it is written to listen to port:8080.
+4. The `./server.py` file contain the code for creating the server and listening to the PORT which is taken from the environment variable, by default it is written to listen to port:8080.
 5. Since the Application is written in TypeScript and during development, creating a build each time a change is made is time-consuming, so during development we can use the terminal command `python debug.py` to run the server for hot reloading.
 6. The `./controllers` folder contains the resource-based API routes and its prefix is defined in `./urls.py` .
 7. Any Configurations such as aws initialization, which configurations are written in `./utils.py`&#x20;
