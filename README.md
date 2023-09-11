@@ -16,5 +16,5 @@ This Documentation is split into 4 sections:
 2. [Back-end](back-end.md)
 3. [Front-end](front-end.md)&#x20;
 4. [Forge](forge.md)
-5. Dev-Ops
+5. [Dev-Ops](devops.md)
 
